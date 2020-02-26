@@ -1,4 +1,8 @@
 Example:
 Roo Jogjakarta  Crash Landing on You
-Waffiqq Jogjakarta Your Name
+<<<<<<< HEAD
+Waffiqk Jogjakarta Your Name
+=======
+Waffiqk Jogjakarta Your Name
+>>>>>>> experiment_A
 Reyhan Bandung 1917 & Hackshaw Ridge
